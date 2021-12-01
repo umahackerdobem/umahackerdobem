@@ -2,7 +2,7 @@
 - 👀 Apaixonada por tecnologia e café
 - 🌱 Estou aprendendo a programar
 - 💞️ Quero me especializar em Segurança cibernética
-- 📫 Me ache em @tigresadetroia
+- 📫 Me ache em @amarelindah
 
 <!---
 umahackerdobem/umahackerdobem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

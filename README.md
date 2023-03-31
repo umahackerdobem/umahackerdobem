@@ -1,9 +1,7 @@
-## Olá, eu sou Nara!🌻
+# Olá, eu sou Nara! <img align="center" height="50" width="50" src="https://i.pinimg.com/originals/34/53/cc/3453cc388407589b0f9d9645511a0d5e.gif">
 
 - 🖥️ Trainee em Desenvolvimento de Software na Levva
-<b> <b>
-- 🎓 Graduanda no curso de Ciência da Computação na Unifavip Wyden 
-<b> <b>
+- 🎓 Graduanda em Ciência da Computação na Unifavip Wyden 
 - 🔒 Aspirante a Analista de Ataque Cibernético 
 <b>
 

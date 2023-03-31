@@ -1,6 +1,6 @@
 # Olá, eu sou Nara!<img align="center" height="50" width="50" src="https://i.pinimg.com/originals/34/53/cc/3453cc388407589b0f9d9645511a0d5e.gif">
 
- <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/a5/ee/7c/a5ee7c7b4c6bd5a9ff0e38bb1b05c405.jpg">
+ <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89475607/229184886-a7e679ec-4eb4-4fa5-9289-1633740c4b13.png">
  
 - 🖥️ Trainee em Desenvolvimento de Software na Levva
 - 🎓 Graduanda em Ciência da Computação na Unifavip Wyden 

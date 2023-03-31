@@ -21,7 +21,7 @@
 
 <div>
 <a href="https://www.instagram.com/umahackerdobem/" target="_blank"> <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" target="_blank"></a>
-  <a href="umahackerdobem@gmail.com"><img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" target="_blank"></a>
+  <a href="mailto:umahackerdobem@gmail.com"><img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/umahackerdobem/" target="_blank"> <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" target="_blank"></a> 
   
 </div>

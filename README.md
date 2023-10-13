@@ -2,7 +2,7 @@
 
  <img align="right" alt="Rafa-pic" height="150" width="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89475607/229184886-a7e679ec-4eb4-4fa5-9289-1633740c4b13.png">
  
-- 🖥️ Trainee em Desenvolvimento de Software na Levva
+- 🖥️ Analista de Desenvolvimento Junior na Levva
 - 🎓 Graduanda em Ciência da Computação na Unifavip Wyden 
 - 🔒 Aspirante a Analista de Ataque Cibernético 
 <b>
